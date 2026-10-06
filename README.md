@@ -37,10 +37,14 @@ active tab, the button that matters.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Neon**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Console**. Install Borozdov Console under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Neon** under Style Settings → Borozdov Console → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/neon/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Neon/`, then choose Borozdov Neon under
 Settings → Appearance → Themes.
@@ -55,5 +59,4 @@ MIT — see [LICENSE](LICENSE).
 которая остаётся после того, как погас неон, и тёмный «Blacklight» — чёрный бархат под
 лампой. Одна фиолетовая линия — никогда не заливка — несёт весь акцент: ссылки, открытый
 файл, активную вкладку, единственную важную кнопку. Шрифты не встроены, код набран именем
-Commit Mono с аккуратным откатом на системный моноширинный. Устанавливается из каталога:
-Настройки → Оформление → Темы → Настроить → Borozdov Neon → Установить и применить.
+Commit Mono с аккуратным откатом на системный моноширинный. В каталоге тема живёт вариантом Borozdov Console: установите Borozdov Console и плагин Style Settings, затем выберите Neon в Style Settings → Borozdov Console → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
